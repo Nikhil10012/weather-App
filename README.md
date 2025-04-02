@@ -23,8 +23,8 @@
 ## 🔧 Installation & Setup
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/Nikhil10012/weather-app.git
-   cd weather-app
+   git clone https://github.com/Nikhil10012/weather-App.git
+   cd weather-App
    ```
 2. **Install dependencies**
    ```bash
